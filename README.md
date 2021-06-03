@@ -2,7 +2,8 @@
 - 👀 I’m interested in Deep Learning, Computer Vision, NLP, Data Science
 - 🌱 I’m currently learning ReactJs & Data Science
 - 💞️ I’m looking to collaborate on Computer vision, NLP & Deep Learning
-- 📫 How to reach me - Email: anoy1729@cseku.ac.bd
+- 📫 How to reach me - 
+-                      Email: anoy1729@cseku.ac.bd
 -                      Linkedin : https://www.linkedin.com/in/md-shafayat-jamil-5782b8185
 -                      Facebook : https://www.facebook.com/anoy.eugene/
 
