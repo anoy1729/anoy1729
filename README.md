@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anoy1729
+- 👋 Hi, I’m Md. Shafayat Jamil Anoy
 - 👀 I’m interested in Deep Learning, Computer Vision, NLP, Data Science
 - 🌱 I’m currently learning ReactJs & Data Science
 - 💞️ I’m looking to collaborate on Computer vision, NLP & Deep Learning
